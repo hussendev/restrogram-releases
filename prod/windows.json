@@ -1,0 +1,14 @@
+{
+  "build": 8,
+  "version": "1.0.0",
+  "min_build": 0,
+  "notes": "Test update",
+  "published_at": "2026-10-12T11:10:12Z",
+  "files": {
+    "x64": {
+      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-windows-8/restrogram-windows-x64.zip",
+      "sha256": "91510e52219c296b07486c4879ed7a4c0beaad1857f09d83aa0c9a7ab06524f0",
+      "size": 17869051
+    }
+  }
+}
