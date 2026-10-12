@@ -1,14 +1,14 @@
 {
-  "build": 8,
+  "build": 12,
   "version": "1.0.0",
   "min_build": 0,
-  "notes": "Test update",
-  "published_at": "2026-10-12T11:10:12Z",
+  "notes": "update",
+  "published_at": "2026-10-12T13:53:30Z",
   "files": {
     "x64": {
-      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-windows-8/restrogram-windows-x64.zip",
-      "sha256": "91510e52219c296b07486c4879ed7a4c0beaad1857f09d83aa0c9a7ab06524f0",
-      "size": 17869051
+      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-windows-12/restrogram-windows-x64.zip",
+      "sha256": "89898aef38ef50b638c83771fe1710b905a7c4964019e956414701688c9018b7",
+      "size": 17874637
     }
   }
 }
