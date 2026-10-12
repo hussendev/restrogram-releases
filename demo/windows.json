@@ -1,0 +1,14 @@
+{
+  "build": 9,
+  "version": "1.0.0",
+  "min_build": 0,
+  "notes": "About Page, check for updates",
+  "published_at": "2026-10-12T13:15:22Z",
+  "files": {
+    "x64": {
+      "url": "https://github.com/hussendev/restrogram-releases/releases/download/demo-windows-9/restrogram-windows-x64.zip",
+      "sha256": "70c94fe1c8cc2f86c6969f6667fd4ffe5cfadb6f9eada25ac5560de9c6686410",
+      "size": 17751372
+    }
+  }
+}
