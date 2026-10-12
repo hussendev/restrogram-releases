@@ -1,0 +1,24 @@
+{
+  "build": 13,
+  "version": "1.0.0",
+  "min_build": 0,
+  "notes": "About Page, check for updates",
+  "published_at": "2026-10-12T13:11:51Z",
+  "files": {
+    "arm64-v8a": {
+      "url": "https://github.com/hussendev/restrogram-releases/releases/download/demo-android-13/restrogram-android-arm64-v8a.apk",
+      "sha256": "fd261193735bba001c26db32ce4a28e9aa2a51e282a07cd61c431844612a9015",
+      "size": 26416626
+    },
+    "armeabi-v7a": {
+      "url": "https://github.com/hussendev/restrogram-releases/releases/download/demo-android-13/restrogram-android-armeabi-v7a.apk",
+      "sha256": "3f6fb183643c45e441884aae1c11580720ca8d97dc5008ca4a1aecb9297ab0a4",
+      "size": 24366394
+    },
+    "x86_64": {
+      "url": "https://github.com/hussendev/restrogram-releases/releases/download/demo-android-13/restrogram-android-x86_64.apk",
+      "sha256": "a596bd38eda52c7a3bc78f0d8a6e342b9b8cc4fcaa78e6f2250e2ff44183a35c",
+      "size": 27819206
+    }
+  }
+}
