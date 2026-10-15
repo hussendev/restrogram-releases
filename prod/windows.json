@@ -1,14 +1,14 @@
 {
-  "build": 15,
+  "build": 16,
   "version": "1.0.0",
   "min_build": 0,
-  "notes": "fix(windows): apply updates with the new exe instead of PowerShell",
-  "published_at": "2026-10-15T12:58:01Z",
+  "notes": "test",
+  "published_at": "2026-10-15T13:12:57Z",
   "files": {
     "x64": {
-      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-windows-15/restrogram-windows-x64.zip",
-      "sha256": "8e04944abb7d21a3e2aeac0948ac7b6ff6c0dd4e9309dbc96cf1e5a349866867",
-      "size": 18000701
+      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-windows-16/restrogram-windows-x64.zip",
+      "sha256": "b760da481b8d49017baf2f9db9f854a74c1beb7cb249d0b6060b6d704c5f6764",
+      "size": 18000789
     }
   }
 }
