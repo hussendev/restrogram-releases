@@ -1,14 +1,14 @@
 {
-  "build": 12,
+  "build": 14,
   "version": "1.0.0",
   "min_build": 0,
-  "notes": "update",
-  "published_at": "2026-10-12T13:53:30Z",
+  "notes": "feat: add order activity log feature with UI and backend integration",
+  "published_at": "2026-10-15T11:19:33Z",
   "files": {
     "x64": {
-      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-windows-12/restrogram-windows-x64.zip",
-      "sha256": "89898aef38ef50b638c83771fe1710b905a7c4964019e956414701688c9018b7",
-      "size": 17874637
+      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-windows-14/restrogram-windows-x64.zip",
+      "sha256": "3d8947912aff04af7b04ab06cd23f6e9016fb69f5d027b91bc4fbc1b56ff93a0",
+      "size": 17984773
     }
   }
 }
