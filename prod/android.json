@@ -1,0 +1,24 @@
+{
+  "build": 16,
+  "version": "1.0.0",
+  "min_build": 0,
+  "notes": "feat: add order activity log feature with UI and backend integration",
+  "published_at": "2026-10-15T11:20:48Z",
+  "files": {
+    "arm64-v8a": {
+      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-android-16/restrogram-android-arm64-v8a.apk",
+      "sha256": "d363ee72fcecf5a66b73c260f3ec97806281005dfbb8a49329235cd04ae89212",
+      "size": 26744306
+    },
+    "armeabi-v7a": {
+      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-android-16/restrogram-android-armeabi-v7a.apk",
+      "sha256": "1e136a4c248259841d7be73c58ff637d2b5d4d5cb1e0ba8af3ba223560202d8d",
+      "size": 24694074
+    },
+    "x86_64": {
+      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-android-16/restrogram-android-x86_64.apk",
+      "sha256": "176e3a1a5f9efd8ccb2c2f4a234a7499e3e15a2ca41fc937d02bc49fc63689ca",
+      "size": 28212422
+    }
+  }
+}
