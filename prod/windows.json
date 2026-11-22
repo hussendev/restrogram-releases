@@ -1,14 +1,14 @@
 {
-  "build": 21,
+  "build": 22,
   "version": "1.0.0",
   "min_build": 0,
-  "notes": "feat(pos): add draft receipt dialog, order saved dialog, and receipt preview",
-  "published_at": "2026-11-22T08:38:07Z",
+  "notes": "docs: update README with publishing instructions and workflow details fix: enhance error handling in publish-release script for better feedback fix: update Telegram notification messages to include failure stage in workflows",
+  "published_at": "2026-11-22T09:01:38Z",
   "files": {
     "x64": {
-      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-windows-21/restrogram-windows-x64.zip",
-      "sha256": "171acffa7967a93d3e9c2320b3cc52bbc9b12d1c19bf492b4317c9431de0012a",
-      "size": 17985055
+      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-windows-22/restrogram-windows-x64.zip",
+      "sha256": "01be9ae2786bf331d34dfab8c4676401cbd2f3a48f89bab2cb91a9010fb8dc89",
+      "size": 17984798
     }
   }
 }
