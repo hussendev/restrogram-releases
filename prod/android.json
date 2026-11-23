@@ -1,24 +1,24 @@
 {
-  "build": 23,
+  "build": 25,
   "version": "1.0.0",
   "min_build": 0,
-  "notes": "docs: update README with publishing instructions and workflow details fix: enhance error handling in publish-release script for better feedback fix: update Telegram notification messages to include failure stage in workflows",
-  "published_at": "2026-11-22T09:04:40Z",
+  "notes": "feat(app): POS in-store and delivery modes where the table decides the type",
+  "published_at": "2026-11-23T09:41:06Z",
   "files": {
     "arm64-v8a": {
-      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-android-23/restrogram-android-arm64-v8a.apk",
-      "sha256": "18874ab0435ea7d9fe18365156c8af44cca75be75fcce003b9bfe986de680731",
-      "size": 26812774
+      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-android-25/restrogram-android-arm64-v8a.apk",
+      "sha256": "6a9b54a492d1e9525ef2f11ebb8fd3bdccd0125fda685f3f26b3c6a8171a3b3e",
+      "size": 26878918
     },
     "armeabi-v7a": {
-      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-android-23/restrogram-android-armeabi-v7a.apk",
-      "sha256": "7e0879febfd0fa2619ee7e1c6c31b662e777b1ed80761dbd8c9914620a7a49f1",
-      "size": 24746158
+      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-android-25/restrogram-android-armeabi-v7a.apk",
+      "sha256": "4a857c71477948e9880245655eae84b428b818a833b02ac6f7ed788bb531b6d2",
+      "size": 24812298
     },
     "x86_64": {
-      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-android-23/restrogram-android-x86_64.apk",
-      "sha256": "6f48b2f24400ffad4079ebc50e8eb3e65b578c7a2ecbd24a1be9ac13e56fbee3",
-      "size": 28280890
+      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-android-25/restrogram-android-x86_64.apk",
+      "sha256": "0326b87dc57d3bbbff4ecc7b4bb0b2fef1f076cdc2ed2d1db4f5ccd13f360358",
+      "size": 28281498
     }
   }
 }
