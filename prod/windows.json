@@ -1,14 +1,14 @@
 {
-  "build": 25,
+  "build": 26,
   "version": "1.0.0",
   "min_build": 0,
-  "notes": "Merge origin/main into main",
-  "published_at": "2026-11-23T11:51:18Z",
+  "notes": "fix(app-update): wait for the old app process before copying the update",
+  "published_at": "2026-11-23T12:11:52Z",
   "files": {
     "x64": {
-      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-windows-25/restrogram-windows-x64.zip",
-      "sha256": "6cbad9ecc4d04a153a0ccd170a5d4be1b80cce754d46b44077441593ab91b4a9",
-      "size": 18008945
+      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-windows-26/restrogram-windows-x64.zip",
+      "sha256": "1fb96c2845866653dd0d2868bded4886a2efffb1ba0a59841dfffbe190bf5dc1",
+      "size": 18011226
     }
   }
 }
