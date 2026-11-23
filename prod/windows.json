@@ -1,14 +1,14 @@
 {
-  "build": 22,
+  "build": 23,
   "version": "1.0.0",
   "min_build": 0,
-  "notes": "docs: update README with publishing instructions and workflow details fix: enhance error handling in publish-release script for better feedback fix: update Telegram notification messages to include failure stage in workflows",
-  "published_at": "2026-11-22T09:01:38Z",
+  "notes": "feat: enhance floor map layout for web compatibility",
+  "published_at": "2026-11-23T08:51:07Z",
   "files": {
     "x64": {
-      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-windows-22/restrogram-windows-x64.zip",
-      "sha256": "01be9ae2786bf331d34dfab8c4676401cbd2f3a48f89bab2cb91a9010fb8dc89",
-      "size": 17984798
+      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-windows-23/restrogram-windows-x64.zip",
+      "sha256": "c5c01d0ae6c14f3255f2a47cf7354415082b150da020204e22b1ffd519675459",
+      "size": 18009248
     }
   }
 }
