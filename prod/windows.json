@@ -1,14 +1,14 @@
 {
-  "build": 23,
+  "build": 24,
   "version": "1.0.0",
   "min_build": 0,
-  "notes": "feat: enhance floor map layout for web compatibility",
-  "published_at": "2026-11-23T08:51:07Z",
+  "notes": "feat(app): POS in-store and delivery modes where the table decides the type",
+  "published_at": "2026-11-23T09:40:01Z",
   "files": {
     "x64": {
-      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-windows-23/restrogram-windows-x64.zip",
-      "sha256": "c5c01d0ae6c14f3255f2a47cf7354415082b150da020204e22b1ffd519675459",
-      "size": 18009248
+      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-windows-24/restrogram-windows-x64.zip",
+      "sha256": "69211c68afc016a0b5abbc5b08373222dd36e029226d7f3e8f69a20afe5e7527",
+      "size": 18008895
     }
   }
 }
