@@ -1,23 +1,23 @@
 {
-  "build": 25,
+  "build": 26,
   "version": "1.0.0",
   "min_build": 0,
-  "notes": "feat(app): POS in-store and delivery modes where the table decides the type",
-  "published_at": "2026-11-23T09:41:06Z",
+  "notes": "Merge origin/main into main",
+  "published_at": "2026-11-23T11:51:16Z",
   "files": {
     "arm64-v8a": {
-      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-android-25/restrogram-android-arm64-v8a.apk",
-      "sha256": "6a9b54a492d1e9525ef2f11ebb8fd3bdccd0125fda685f3f26b3c6a8171a3b3e",
-      "size": 26878918
+      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-android-26/restrogram-android-arm64-v8a.apk",
+      "sha256": "f20e43323e4ab92f5cb42d49f3060b90a451d26bff6b0ea947d0084c57c5a444",
+      "size": 26878914
     },
     "armeabi-v7a": {
-      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-android-25/restrogram-android-armeabi-v7a.apk",
-      "sha256": "4a857c71477948e9880245655eae84b428b818a833b02ac6f7ed788bb531b6d2",
-      "size": 24812298
+      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-android-26/restrogram-android-armeabi-v7a.apk",
+      "sha256": "4b356749673f7238cb44646cf5bbe9edb5df8a5013e54b5564c9293eb4fcef37",
+      "size": 24812302
     },
     "x86_64": {
-      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-android-25/restrogram-android-x86_64.apk",
-      "sha256": "0326b87dc57d3bbbff4ecc7b4bb0b2fef1f076cdc2ed2d1db4f5ccd13f360358",
+      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-android-26/restrogram-android-x86_64.apk",
+      "sha256": "c9b55a1f6b0ac9b2a9f91ee0d49324d351591ed62cd43044d3e886f6d7a51133",
       "size": 28281498
     }
   }
