@@ -1,14 +1,14 @@
 {
-  "build": 29,
+  "build": 30,
   "version": "1.0.0",
   "min_build": 0,
-  "notes": "fix(printing): printed receipt matches the invoice preview in settings",
-  "published_at": "2026-11-24T08:44:30Z",
+  "notes": "feat(pos): receipt preview follows the web invoice",
+  "published_at": "2026-11-24T09:31:35Z",
   "files": {
     "x64": {
-      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-windows-29/restrogram-windows-x64.zip",
-      "sha256": "7d54d79503424cb333f73344e7d5a261d9bf5c2a1c8cc71b8166527f825e0fb3",
-      "size": 18007064
+      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-windows-30/restrogram-windows-x64.zip",
+      "sha256": "b596109a493680ed4903fe7bb8961ecb0b6425d5acf7b04322f12e3ad95f9530",
+      "size": 18014885
     }
   }
 }
