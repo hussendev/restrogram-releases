@@ -1,14 +1,14 @@
 {
-  "build": 28,
+  "build": 29,
   "version": "1.0.0",
   "min_build": 0,
-  "notes": "fix(printing): a rejected printer form can be saved again after the correction",
-  "published_at": "2026-11-24T08:09:26Z",
+  "notes": "fix(printing): printed receipt matches the invoice preview in settings",
+  "published_at": "2026-11-24T08:44:30Z",
   "files": {
     "x64": {
-      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-windows-28/restrogram-windows-x64.zip",
-      "sha256": "8e502cb38738a496f72c660a075b73f4b8fd3c8e8ae4c4fdf440cdfd57ba5cd5",
-      "size": 18006500
+      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-windows-29/restrogram-windows-x64.zip",
+      "sha256": "7d54d79503424cb333f73344e7d5a261d9bf5c2a1c8cc71b8166527f825e0fb3",
+      "size": 18007064
     }
   }
 }
