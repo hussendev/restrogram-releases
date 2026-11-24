@@ -1,14 +1,14 @@
 {
-  "build": 30,
+  "build": 31,
   "version": "1.0.0",
   "min_build": 0,
-  "notes": "feat(pos): receipt preview follows the web invoice",
-  "published_at": "2026-11-24T09:31:35Z",
+  "notes": "fix(orders): the anonymous Guest name is not shown as a customer",
+  "published_at": "2026-11-24T10:59:27Z",
   "files": {
     "x64": {
-      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-windows-30/restrogram-windows-x64.zip",
-      "sha256": "b596109a493680ed4903fe7bb8961ecb0b6425d5acf7b04322f12e3ad95f9530",
-      "size": 18014885
+      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-windows-31/restrogram-windows-x64.zip",
+      "sha256": "d9eec53e925ed1449f81fdedf4214b1a12288daca47e8ada274fb96b34a909ac",
+      "size": 18016892
     }
   }
 }
