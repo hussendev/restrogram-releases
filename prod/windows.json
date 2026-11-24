@@ -1,14 +1,14 @@
 {
-  "build": 32,
+  "build": 33,
   "version": "1.0.0",
   "min_build": 0,
-  "notes": "fix(printing): a job no longer waits for an extra probe of a printer in backoff",
-  "published_at": "2026-11-24T11:39:02Z",
+  "notes": "Merge pull request #5 from MohammedAlNamla/feat/profile-password-settings",
+  "published_at": "2026-11-24T13:25:51Z",
   "files": {
     "x64": {
-      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-windows-32/restrogram-windows-x64.zip",
-      "sha256": "50c123aee91bfb5d9b24566f4efe7b88fb3d533071b9770a5d1b84b65d7a17e1",
-      "size": 18021700
+      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-windows-33/restrogram-windows-x64.zip",
+      "sha256": "b6936a2b3659b1c9d8e5bf690b3583dc483f98d2d5aaa4517a397804113573fb",
+      "size": 18081871
     }
   }
 }
