@@ -1,24 +1,24 @@
 {
-  "build": 30,
+  "build": 31,
   "version": "1.0.0",
   "min_build": 0,
-  "notes": "fix(printing): printed receipt matches the invoice preview in settings",
-  "published_at": "2026-11-24T08:45:55Z",
+  "notes": "feat(pos): receipt preview follows the web invoice",
+  "published_at": "2026-11-24T09:32:57Z",
   "files": {
     "arm64-v8a": {
-      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-android-30/restrogram-android-arm64-v8a.apk",
-      "sha256": "e5ec580cdb59d19d02f35db8f0339276ddb4a2fb425de5dce38aa737772a2b0e",
+      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-android-31/restrogram-android-arm64-v8a.apk",
+      "sha256": "4382e81fe399bf45315ec90bbd74334746e341ba276f0ff8d4030dd0e84535de",
       "size": 26881654
     },
     "armeabi-v7a": {
-      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-android-30/restrogram-android-armeabi-v7a.apk",
-      "sha256": "da5ad620414e37c2a2bf438015e89e4049268f4a5ce736e57c8a4183af0a3001",
-      "size": 24815038
+      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-android-31/restrogram-android-armeabi-v7a.apk",
+      "sha256": "34b77e1f13b16f237c892ba4b0ab07488d342baee01f5ac129869ae078c2d05a",
+      "size": 24831422
     },
     "x86_64": {
-      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-android-30/restrogram-android-x86_64.apk",
-      "sha256": "a819fc52a5b4cabe4bd56f02982e8bc6888a9b667ec5b02b7a54357e4dabd2a2",
-      "size": 28284234
+      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-android-31/restrogram-android-x86_64.apk",
+      "sha256": "d4be52cec729ed24aa232d6202c70734f997377fa51afdfdd3fcb4624e2882e7",
+      "size": 28349770
     }
   }
 }
