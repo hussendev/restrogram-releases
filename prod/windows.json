@@ -1,14 +1,14 @@
 {
-  "build": 33,
+  "build": 34,
   "version": "1.0.0",
   "min_build": 0,
-  "notes": "Merge pull request #5 from MohammedAlNamla/feat/profile-password-settings",
-  "published_at": "2026-11-24T13:25:51Z",
+  "notes": "feat(app): waiting-orders bell and brief new-order toast",
+  "published_at": "2026-11-25T07:33:19Z",
   "files": {
     "x64": {
-      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-windows-33/restrogram-windows-x64.zip",
-      "sha256": "b6936a2b3659b1c9d8e5bf690b3583dc483f98d2d5aaa4517a397804113573fb",
-      "size": 18081871
+      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-windows-34/restrogram-windows-x64.zip",
+      "sha256": "60ff941f846ac59fd34a91a35b2f8958506aef63b39513b016fc79e17f1aa81c",
+      "size": 18092218
     }
   }
 }
