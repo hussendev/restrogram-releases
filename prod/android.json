@@ -1,23 +1,23 @@
 {
-  "build": 34,
+  "build": 35,
   "version": "1.0.0",
   "min_build": 0,
-  "notes": "Merge pull request #5 from MohammedAlNamla/feat/profile-password-settings",
-  "published_at": "2026-11-24T13:28:20Z",
+  "notes": "feat(app): waiting-orders bell and brief new-order toast",
+  "published_at": "2026-11-25T07:34:43Z",
   "files": {
     "arm64-v8a": {
-      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-android-34/restrogram-android-arm64-v8a.apk",
-      "sha256": "04f5d512033cb596e25dda27b084245b640b908534314b15eaa85f320f3ead6e",
-      "size": 26934406
+      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-android-35/restrogram-android-arm64-v8a.apk",
+      "sha256": "28e37af4056b730865e031f5bc7449807ce5cf45bb6c910a35732b9e0966dae4",
+      "size": 26999942
     },
     "armeabi-v7a": {
-      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-android-34/restrogram-android-armeabi-v7a.apk",
-      "sha256": "e17c50e75adbd80b35192c07ebb1b6dbe42d1ffd005d28b9ded274e5fc5d7c56",
-      "size": 24933322
+      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-android-35/restrogram-android-armeabi-v7a.apk",
+      "sha256": "43f251890de3573b450291ad1005fa870c3c410c230298f4a0a46562488cc0bf",
+      "size": 24966090
     },
     "x86_64": {
-      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-android-34/restrogram-android-x86_64.apk",
-      "sha256": "8fc2ce7a822e5a44be33d1f8aa81e3afd7cce6c5e8b96e755e2d6779e430f35c",
+      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-android-35/restrogram-android-x86_64.apk",
+      "sha256": "a8fd5b7cc3eaaa1050d5480eef1920ffccd92cd06d4db70f1a0e1cca928c6bb3",
       "size": 28402522
     }
   }
