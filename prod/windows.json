@@ -1,14 +1,14 @@
 {
-  "build": 35,
+  "build": 36,
   "version": "1.0.0",
   "min_build": 0,
-  "notes": "fix(app): clean up printer details sheet",
-  "published_at": "2026-11-26T08:17:35Z",
+  "notes": "fix(app): redesign the feedback sheet like the web one",
+  "published_at": "2026-11-26T08:37:16Z",
   "files": {
     "x64": {
-      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-windows-35/restrogram-windows-x64.zip",
-      "sha256": "99455f5ddc7b9b34ec5ed3f629d465fcca8cd47d11ddff30e6625cb9ab08e07d",
-      "size": 18719042
+      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-windows-36/restrogram-windows-x64.zip",
+      "sha256": "2f7d4d534a95446e6956b626f8b57c9b305b68271e213e5302e10064784c23ff",
+      "size": 18719906
     }
   }
 }
