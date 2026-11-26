@@ -1,14 +1,14 @@
 {
-  "build": 37,
+  "build": 38,
   "version": "1.0.0",
   "min_build": 0,
-  "notes": "fix(app): isolate paper width LTR and align printer detail values",
-  "published_at": "2026-11-26T09:14:03Z",
+  "notes": "merge: dev into main (printer details and feedback sheet fixes)",
+  "published_at": "2026-11-26T09:21:43Z",
   "files": {
     "x64": {
-      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-windows-37/restrogram-windows-x64.zip",
-      "sha256": "0b2484b0b26147e76aaa100fcdab7e188df80729e60ea80fa77a84e7537b04c2",
-      "size": 18719670
+      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-windows-38/restrogram-windows-x64.zip",
+      "sha256": "e4f9f70d6e0a3d78fc55b6f8b0185fec396b57642369b7ffeae0ceef54658f6e",
+      "size": 18719029
     }
   }
 }
