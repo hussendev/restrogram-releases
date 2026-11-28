@@ -1,14 +1,14 @@
 {
-  "build": 38,
+  "build": 40,
   "version": "1.0.0",
   "min_build": 0,
-  "notes": "merge: dev into main (printer details and feedback sheet fixes)",
-  "published_at": "2026-11-26T09:21:43Z",
+  "notes": "fix(app): pin CI Flutter to 3.47.7 and require Dart 3.12",
+  "published_at": "2026-11-28T07:13:36Z",
   "files": {
     "x64": {
-      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-windows-38/restrogram-windows-x64.zip",
-      "sha256": "e4f9f70d6e0a3d78fc55b6f8b0185fec396b57642369b7ffeae0ceef54658f6e",
-      "size": 18719029
+      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-windows-40/restrogram-windows-x64.zip",
+      "sha256": "d5fd2cdbb2575641b1a810bb3f8bc161a30c95f5e3f50a5048789c5f702f62a3",
+      "size": 17452694
     }
   }
 }
