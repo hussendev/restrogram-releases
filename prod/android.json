@@ -1,24 +1,24 @@
 {
-  "build": 39,
+  "build": 41,
   "version": "1.0.0",
   "min_build": 0,
-  "notes": "merge: dev into main (printer details and feedback sheet fixes)",
-  "published_at": "2026-11-26T09:23:03Z",
+  "notes": "fix(app): pin CI Flutter to 3.47.7 and require Dart 3.12",
+  "published_at": "2026-11-28T07:17:16Z",
   "files": {
     "arm64-v8a": {
-      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-android-39/restrogram-android-arm64-v8a.apk",
-      "sha256": "1f2c3435cbf519001ae19b54c7ce0f6f4c4a6a8d6f20e1cd681022dab4afdd96",
-      "size": 28482358
+      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-android-41/restrogram-android-arm64-v8a.apk",
+      "sha256": "a897f18ee659333b6935103d12ceebcde1524b1c83d8e90ba933bc3ceefcbb1d",
+      "size": 29132982
     },
     "armeabi-v7a": {
-      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-android-39/restrogram-android-armeabi-v7a.apk",
-      "sha256": "822ce2572d725a68f356bf3ce6430a2bd9ad047641ea9159c96610e31b0b56dc",
-      "size": 26169982
+      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-android-41/restrogram-android-armeabi-v7a.apk",
+      "sha256": "fd067724a4352ff8eb4310f2eff6790708e3053407b86573bd0bc2190106cf84",
+      "size": 26640386
     },
     "x86_64": {
-      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-android-39/restrogram-android-x86_64.apk",
-      "sha256": "3c21a8bb4a844ca686b23b9b5be2e2f8dc28c47471339f7182be8d6857b9d5bd",
-      "size": 29934084
+      "url": "https://github.com/hussendev/restrogram-releases/releases/download/prod-android-41/restrogram-android-x86_64.apk",
+      "sha256": "1ac57939d4ab53f75c6852511117b362371489b188ecb363b6a4d928b1da2c20",
+      "size": 30633860
     }
   }
 }
